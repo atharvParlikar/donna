@@ -34,11 +34,11 @@ By default, the FastAPI backend runs at **http://localhost:8000**.
 ### 3. Setting Up the Frontend (Next.js)
 ```bash
 cd ../frontend
-npm install  # Install dependencies
+bun install  # Install dependencies
 ```
 #### Running the Frontend
 ```bash
-npm run dev
+bun run dev
 ```
 By default, the Next.js frontend runs at **http://localhost:3000**.
 
