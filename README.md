@@ -1,4 +1,4 @@
-# Project Name
+# Donna - An AI assistant agent.
 
 ## Overview
 This project consists of a **Next.js frontend** and a **FastAPI backend**. It is designed to be open-source and easy to set up for development or deployment.
